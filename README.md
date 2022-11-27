@@ -7,7 +7,7 @@
 
 <p align="center" style="tfont-weight:bold;font-size:32px;margin-bottom:0;" ><b>Scheme CSS</b></p>
 
-<p style="text-align:center;">
+<p align="center">
 Construisez librement 👷
 </p>
 
